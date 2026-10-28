@@ -1,0 +1,7 @@
+# Numerical versions used for verified Sparse-IDCS and baseline reproduction.
+# Use Python 3.8.10 and install this file before editable package installation.
+numpy==1.22.4
+scipy==1.7.3
+matplotlib==3.7.5
+gstools==1.7.0
+pytest==7.4.4

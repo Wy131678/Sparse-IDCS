@@ -1,0 +1,16 @@
+Sparse-IDCS manuscript experiment source
+Copyright 2026 The Sparse-IDCS contributors
+
+The Sparse-IDCS implementation adapts the IDCS project by Shiran Levy and
+collaborators (https://github.com/ShiLevy/IDCS). The upstream modules in
+vendor/idcs_original are provided under the upstream GNU GPL version 3
+license and are used only on their linear straight-ray path. This repository
+is distributed under GPL-3.0-only; see LICENSE.
+
+The straight-ray kernel retains its original author attribution to E. Laloy.
+The source image embedded into the experiment scripts derives from the
+binary-channels channels.npy used by the IDCS example and attributed to
+Zahner et al. (2016). The embedded bits are exact source-image crops, not
+previous reconstruction results.
+
+No field measurements or field-validation experiment are distributed here.

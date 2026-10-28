@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the associated manuscript and the original IDCS paper."
+type: software
+title: "Sparse-IDCS for Crosshole GPR"
+version: "1.0.1"
+authors:
+  - family-names: Wu
+    given-names: Yi
+  - family-names: Lai
+    given-names: Yuanming
+  - family-names: Li
+    given-names: Ruohan
+  - family-names: Zhang
+    given-names: Bin
+  - family-names: Zeng
+    given-names: Yong
+  - family-names: Wu
+    given-names: Taixing
+references:
+  - type: article
+    title: "Conditioning of multiple-point statistics simulations to indirect geophysical data"
+    authors:
+      - family-names: Levy
+        given-names: Shiran
+      - family-names: Friedli
+        given-names: Lea
+      - family-names: Mariethoz
+        given-names: Gregoire
+      - family-names: Linde
+        given-names: Niklas
+    year: 2024
+    doi: "10.1016/j.cageo.2024.105581"
